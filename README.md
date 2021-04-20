@@ -45,7 +45,7 @@ you'll want to:
     notebook in a browser of your choice.
    
 5. From the Jupyter notebook file explorer window that opens, click on the
-pa2.ipynb file to open and edit it.
+pa3.ipynb file to open and edit it.
 
 ### Google Colaboratory
 
