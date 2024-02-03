@@ -4,9 +4,8 @@
 
 We recommend checking out the following before getting started on PA4:
 
-* The Week 4 videos and slides.
+* The Week 4 videos (Chris Manning's Canvas Videos on Information Retrieval) and slides.
 * Lab 3 on Information Retrieval.
-* Chris Manning's Canvas Videos on Information Retrieval.
 * The Manning, Raghavan, Schütze readings on Boolean Retrieval, Term vocabulary and postings lists, Scoring, term weighting, and the vector space model, and Evaluation in Information Retrieval
 
 ## Getting the Assignment
